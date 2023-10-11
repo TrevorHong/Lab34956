@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Trevo\\Downloads\\Lab3\\Lab3.csproj",
+      "projectUniqueName": "C:\\Users\\Trevo\\OneDrive\\Documents\\GitHub\\Lab34956\\Lab3.csproj",
       "projectName": "Lab3",
-      "projectPath": "C:\\Users\\Trevo\\Downloads\\Lab3\\Lab3.csproj",
+      "projectPath": "C:\\Users\\Trevo\\OneDrive\\Documents\\GitHub\\Lab34956\\Lab3.csproj",
       "packagesPath": "C:\\Users\\Trevo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Trevo\\Downloads\\Lab3\\obj\\",
+      "outputPath": "C:\\Users\\Trevo\\OneDrive\\Documents\\GitHub\\Lab34956\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Trevo\\AppData\\Roaming\\NuGet\\NuGet.Config"
