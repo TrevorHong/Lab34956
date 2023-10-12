@@ -15,7 +15,7 @@ namespace ExampleNaiveBayes
                
                 string fileName = "c:\\Users\\Trevo\\OneDrive\\Documents\\GitHub\\Lab34956\\data.txt";
                 int numberVar = 3;          // Number of predictor variables
-                int numberClassLabels = 2;  // Number of class labels 
+                int numberClassLabels = 4;  // Number of class labels 
                 int N = 101;                 // Number of data points
                 
                 string[] attributes = new string[] { "damage", "pierce", "accuracy", "round achieved" };
@@ -27,7 +27,7 @@ namespace ExampleNaiveBayes
                 attributeValues[0] = new string[] {"low", "medium", "high", "" };
                 attributeValues[1] = new string[] {"low", "medium", "high", "" };
                 attributeValues[2] = new string[] {"low", "medium", "high", "" };
-                attributeValues[3] = new string[] { "1", "2", "3", "4" };
+                attributeValues[3] = new string[] { "0", "1", "2", "3" };
                 for (int i = 0; i < numberVar + 1; ++i) {
                     Console.Write("attribute values" + " " + attributes[i] + ": ");
                     for (int j = 0; j < numberVar + 1; ++j)
@@ -64,12 +64,15 @@ namespace ExampleNaiveBayes
 
                 Console.WriteLine("------------------------------------ \n");
 
-                // Calculation of the class counts for both situations: graduation success (“1”)
-                // and non-graduation success (“0”)
                 for (int i = 0; i < N; ++i)
                 {
-                    int y = int.Parse(data[i][numberVar]);
-                    ++yCts[y];
+                    int y;
+                    if (int.TryParse(data[i][numberVar], out y)) {
+                        y = int.Parse(data[i][numberVar]);
+                        ++yCts[y];
+                    } else {
+                        Console.WriteLine("Error");
+                    }
                     for (int j = 0; j < numberVar; ++j)
                     {
                         if (data[i][j] == X[j])
