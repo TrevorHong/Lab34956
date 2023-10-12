@@ -12,3 +12,17 @@ C:\Users\Trevo\Downloads\Lab3\obj\Debug\net7.0\refint\Lab3.dll
 C:\Users\Trevo\Downloads\Lab3\obj\Debug\net7.0\Lab3.pdb
 C:\Users\Trevo\Downloads\Lab3\obj\Debug\net7.0\Lab3.genruntimeconfig.cache
 C:\Users\Trevo\Downloads\Lab3\obj\Debug\net7.0\ref\Lab3.dll
+C:\Users\Trevo\OneDrive\Documents\GitHub\Lab34956\bin\Debug\net7.0\Lab3.exe
+C:\Users\Trevo\OneDrive\Documents\GitHub\Lab34956\bin\Debug\net7.0\Lab3.deps.json
+C:\Users\Trevo\OneDrive\Documents\GitHub\Lab34956\bin\Debug\net7.0\Lab3.runtimeconfig.json
+C:\Users\Trevo\OneDrive\Documents\GitHub\Lab34956\bin\Debug\net7.0\Lab3.dll
+C:\Users\Trevo\OneDrive\Documents\GitHub\Lab34956\bin\Debug\net7.0\Lab3.pdb
+C:\Users\Trevo\OneDrive\Documents\GitHub\Lab34956\obj\Debug\net7.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trevo\OneDrive\Documents\GitHub\Lab34956\obj\Debug\net7.0\Lab3.AssemblyInfoInputs.cache
+C:\Users\Trevo\OneDrive\Documents\GitHub\Lab34956\obj\Debug\net7.0\Lab3.AssemblyInfo.cs
+C:\Users\Trevo\OneDrive\Documents\GitHub\Lab34956\obj\Debug\net7.0\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Trevo\OneDrive\Documents\GitHub\Lab34956\obj\Debug\net7.0\Lab3.dll
+C:\Users\Trevo\OneDrive\Documents\GitHub\Lab34956\obj\Debug\net7.0\refint\Lab3.dll
+C:\Users\Trevo\OneDrive\Documents\GitHub\Lab34956\obj\Debug\net7.0\Lab3.pdb
+C:\Users\Trevo\OneDrive\Documents\GitHub\Lab34956\obj\Debug\net7.0\Lab3.genruntimeconfig.cache
+C:\Users\Trevo\OneDrive\Documents\GitHub\Lab34956\obj\Debug\net7.0\ref\Lab3.dll
